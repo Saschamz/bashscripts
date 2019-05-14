@@ -1,1 +1,3 @@
 .DS_Store
+postman_monitoring/postman_url.txt
+postman_monitoring/*.postman_environment.json
